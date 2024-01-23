@@ -1,0 +1,8 @@
+CPU:                AMD Ryzen 9 7950X
+CPU max MHz:        5881.0000
+CPU min MHz:        400.0000
+RAM:                64GB
+OS:                 EndeavourOS, Linux
+Kernel:             6.7.0-zen3-1-zen
+g++:                13.2.1
+clang++:            16.0.6
