@@ -1,0 +1,7 @@
+Prozessor	AMD Ryzen 5 5500U with Radeon Graphics            2.10 GHz
+Installierter RAM	16,0 GB (15,3 GB verwendbar)
+Systemtyp	64-Bit-Betriebssystem, x64-basierter Prozessor
+
+Visual Studio 2022 Compiler
+
+Visual Studio 2022,AMD Ryzen 5 5500U with Radeon Graphics 2.10 GHz, Windows 11 Home Pro, Realease,?

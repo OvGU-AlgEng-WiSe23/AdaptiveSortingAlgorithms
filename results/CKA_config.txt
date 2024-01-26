@@ -1,0 +1,5 @@
+Compiler: clang (Apple clang version 15.0.0 (clang-1500.1.0.2.5))
+Processor: Intel i5-8350U 3.4 GHz
+OS: macOs Sonoma 14.2
+Optimization: O3
+C++ Standard: c++20
