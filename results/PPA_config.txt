@@ -1,0 +1,5 @@
+Compiler: Visual Studio 2022 (v143)
+OS: Windows 10 Home
+Optimization: Maximum Optimization (Favor Speed) (/O2)
+C++ Standard: ISO C++14 Standard (/std:c++14)
+C Standard: ISO C11 Standard (/std:c11)
